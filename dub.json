@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Mina Kamel"
+	],
+	"copyright": "Copyright © 2025, Mina Kamel",
+	"dependencies": {
+		"dotenv": "~>0.1.1"
+	},
+	"description": "A binance api wrapper",
+	"license": "MIT",
+	"name": "binance_d"
+}
